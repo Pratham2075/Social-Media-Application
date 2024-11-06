@@ -1,0 +1,44 @@
+[
+  {
+    "email": "user@example.com",
+    "password": "$2a$08$s.s6WS30.JFm1cPQwF0mBe6HseQID.3qCw6m6C26wEn3QZvlw9L8O",
+    "mobile": "1234567890",
+    "verified": false,
+    "following": []
+  },
+  {
+    "email": "user1@example.com",
+    "password": "$2a$08$KGxLZ3ZAGXCDDuVZnUuNO.pHFWtoz3Zc5aU7WL/9qHMbSr/MV/DM.",
+    "mobile": "0234567890",
+    "verified": false,
+    "following": [
+      "user1@example.com"
+    ]
+  },
+  {
+    "email": "user2@example.com",
+    "password": "$2a$08$aMnv9bo9/opU05TEBykwPONbJeMZRk2aWRS/N3It7UzUjJYQhgqUG",
+    "mobile": "2223334444",
+    "verified": false,
+    "following": []
+  },
+  {
+    "email": "user4@example.com",
+    "password": "$2a$08$6Vz6X//Wa5Vo.pfSkOevs.ggOxZhl4yLGnYee7nSWbTVmz0GVQbH2",
+    "mobile": "134567890",
+    "verified": false,
+    "following": [
+      "user1@example.com"
+    ]
+  },
+  {
+    "email": "sakshi@example.com",
+    "password": "$2a$08$zC5ObuSHldlxfO4OUTaH9.BlOnsSXqIa4FnWEHprwIS2Si4OozS1a",
+    "mobile": "8899556611",
+    "role": "registered",
+    "following": [
+      "sakshi@example.com"
+    ],
+    "verified": true
+  }
+]

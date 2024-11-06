@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "My First Post",
+    "description": "This is the description of my first post.",
+    "author": "user1@example.com",
+    "comments": [
+      {
+        "comment": "This is my comment on the post.",
+        "author": "user4@example.com"
+      }
+    ],
+    "likes": 1
+  },
+  {
+    "id": 2,
+    "title": "My First Post",
+    "description": "This is the description of the post.",
+    "author": "user4@example.com",
+    "comments": [],
+    "likes": 0
+  },
+  {
+    "id": 3,
+    "title": "First Post",
+    "description": "This is my first post description.",
+    "author": "sakshi@example.com",
+    "comments": [
+      {
+        "id": 1,
+        "text": "This is a comment on the post.",
+        "author": "sakshi@example.com",
+        "replies": []
+      }
+    ],
+    "likes": 0
+  }
+]
